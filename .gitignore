@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*lck
+*.ger
+*.gpi
+*.s#*
+*.b#*
+*.pro
+*.dri
+*.xln
+*_gerbers.zip
